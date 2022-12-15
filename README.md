@@ -1,9 +1,10 @@
-# Pemrograman Visual "Aplikasi Cendekia berbasis Desktop
+# Ayo - Aplication for Desktop
 
-Project ini di kembangkan oleh Cendekia Tim
-- Muhammad Irsyad Kamal Fannan
-- Yoga Putra Rama Danuarsa
-- Galang Satria 
+The AYO application was developed using the VB.net programming language, which can help hotel administration to collect visitor information
+ 
+#ScreenShoot
+
+![A4 - 1](https://user-images.githubusercontent.com/98598266/207758336-4116fe48-d1c9-4b82-bc44-a608623fc75d.png)
 
 ## Getting Started
 
