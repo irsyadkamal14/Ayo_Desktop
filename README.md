@@ -2,7 +2,7 @@
 
 The AYO application was developed using the VB.net programming language, which can help hotel administration to collect visitor information
  
-#ScreenShoot
+# ScreenShoot
 
 ![A4 - 1](https://user-images.githubusercontent.com/98598266/207758336-4116fe48-d1c9-4b82-bc44-a608623fc75d.png)
 
